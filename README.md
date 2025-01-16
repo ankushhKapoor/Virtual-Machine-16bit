@@ -97,6 +97,7 @@ Inspired by low-level CPU architectures and the x86 assembly language.
 This project is **under development** and may have missing features or bugs.  
 I am continuously improving it—your feedback and support are invaluable!  
 
+---
 
 This project is based on the tutorial video created by **Dr. Jonas Birch** on YouTube.  
 Dr. Birch is a phenomenal programmer whose work forms the foundation of this project.  
@@ -105,7 +106,4 @@ Dr. Birch is a phenomenal programmer whose work forms the foundation of this pro
 
 A huge thanks to Dr. Birch for his invaluable resources and guidance!
 
----
 
-
-Let me know if you want further tweaks! 😊
