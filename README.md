@@ -1,6 +1,3 @@
-Here's the updated README text with the added note about `birchutils.h` and its dependencies:
-
----
 
 # **Virtual Machine - 16-bit CPU Simulator**  
 *A minimalistic virtual CPU designed for low-level programming and experimentation.*
