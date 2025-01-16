@@ -5,7 +5,7 @@
 <h3 align="center"><samp>I have named this virtual machine KapoorVM, reflecting my personal touch and dedication to this project.</samp></h3>
 
 <div align="center">
-<img src="https://github.com/Ankush1626/Virtual-Machine-16bit/blob/main/tests/kapoorvm%20test.png align="center" style="width: 90%" />
+<img src="https://github.com/Ankush1626/Virtual-Machine-16bit/blob/main/tests/kapoorvm%20test.png" align="center" style="width: 90%" />
 </div>
 
 The test result shows the following:
