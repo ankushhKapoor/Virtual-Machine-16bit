@@ -1,12 +1,12 @@
 
 # **Virtual Machine - 16-bit CPU Simulator**  
-*A minimalistic virtual CPU designed for low-level programming and experimentation.*
-
-<h3 align="center"><samp>I have named this virtual machine KapoorVM, reflecting my personal touch and dedication to this project.</samp></h3>
+*A minimalistic virtual machine (kapoorvm) designed for low-level programming and experimentation.*
 
 <div align="center">
 <img src="https://github.com/Ankush1626/Virtual-Machine-16bit/blob/main/tests/kapoorvm%20test.png" align="center" style="width: 90%" />
 </div>
+
+<br>
 
 The test result shows the following:
 
