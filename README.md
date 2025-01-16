@@ -17,20 +17,20 @@ Here’s a beautified version of the README file with added structure and slight
 
 ## 🛠️ **Architecture Overview**
 ### **Registers**
-| Register | Type            | Purpose                    |
-|----------|-----------------|----------------------------|
-| `AX`     | General-purpose | Arithmetic and data        |
-| `BX`     | General-purpose | Base address manipulation  |
-| `CX`     | General-purpose | Count operations           |
-| `DX`     | General-purpose | Data and I/O operations    |
-| `SP`     | Stack pointer   | Stack memory management    |
-| `IP`     | Instruction ptr | Tracks execution location  |
+| Register | Type            | 
+|----------|-----------------|
+| `AX`     | General-purpose | 
+| `BX`     | General-purpose | 
+| `CX`     | General-purpose | 
+| `DX`     | General-purpose | 
+| `SP`     | Stack pointer   | 
+| `IP`     | Instruction ptr | 
 
 ### **Memory**
 - **16-bit Address Space**: Total virtual memory of **65 KB**.  
 
 ### **Instruction Set**
-- Custom-designed opcodes for core CPU operations like `MOV`, `ADD`, `SUB`, and more.  
+- Custom-designed opcodes for core CPU operations like `MOV`, `HLT`, and more.  
 
 ---
 
@@ -55,13 +55,13 @@ I’m actively:
 
 ## 🖥️ **Getting Started**
 ### **Prerequisites**
-- **OS**: Linux (recommended), macOS, or Windows with a C compiler.  
+- **OS**: Linux (recommended). 
 - **C Compiler**: GCC or Clang.
 
 ### **Build Instructions**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Virtual-Machine-16bit.git
+   git clone https://github.com/Ankush1626/Virtual-Machine-16bit.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -87,23 +87,6 @@ I’m actively:
 ## 🌟 **Planned Features**
 - 📜 **Stack Operations**: Add `PUSH` and `POP` instructions.  
 - ➗ **Advanced Arithmetic**: Include `MUL` and `DIV` operations.  
-- 🔄 **Control Flow**: Implement branching and looping mechanisms.  
-- 📤 **I/O Operations**: Support interaction with external devices.  
-
----
-
-## 🤝 **Contributing**
-Contributions are welcome!  
-- Open an **issue** for suggestions or bug reports.  
-- Create a **pull request** for new features or fixes.
-
-Let’s collaborate to make this project even better! 🚀  
-
----
-
-## 📝 **License**
-This project is licensed under the **MIT License**.  
-See the [LICENSE](LICENSE) file for more details.
 
 ---
 
@@ -116,12 +99,15 @@ Inspired by low-level CPU architectures and the x86 assembly language.
 This project is **under development** and may have missing features or bugs.  
 I am continuously improving it—your feedback and support are invaluable!  
 
+
+This project is based on the tutorial video created by **Dr. Jonas Birch** on YouTube.  
+Dr. Birch is a phenomenal programmer whose work forms the foundation of this project.  
+- Several header files, such as `birchutils.h`, were authored by him.  
+- Definitions and `typedef`s used for typecasting in this project are directly derived from his work.  
+
+A huge thanks to Dr. Birch for his invaluable resources and guidance!
+
 ---
 
-### **Author**
-**Ankush Kapoor**  
-Feel free to fork this project, experiment, and contribute!  
-
----
 
 Let me know if you want further tweaks! 😊
