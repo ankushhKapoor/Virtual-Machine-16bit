@@ -3,7 +3,7 @@
 *A minimalistic virtual machine (kapoorvm) designed for low-level programming and experimentation.*
 
 <div align="center">
-<img src="https://github.com/Ankush1626/Virtual-Machine-16bit/blob/main/tests/kapoorvm%20test.png" align="center" style="width: 90%" />
+<img src="https://github.com/Ankush1626/Virtual-Machine-16bit/blob/main/tests/kapoorvm%20test.png" align="center" style="width: 80%" />
 </div>
 
 <br>
