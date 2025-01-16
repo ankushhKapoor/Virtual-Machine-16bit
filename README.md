@@ -2,7 +2,7 @@
 # **Virtual Machine - 16-bit CPU Simulator**  
 *A minimalistic virtual CPU designed for low-level programming and experimentation.*
 
-<samp>I have named this virtual machine kapoorvm, reflecting my personal touch and dedication to this project.</samp>
+<h3 align="center"><samp>I have named this virtual machine kapoorvm, reflecting my personal touch and dedication to this project.</samp></h3>
 ---
 
 ## ✨ **Features**
