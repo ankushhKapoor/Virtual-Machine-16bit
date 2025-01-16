@@ -47,8 +47,6 @@ I’m actively:
 - **`src/`**: Source code for the VM.  
 - **`include/`**: Header files for modularity.  
 - **`tests/`**: Test cases for validating functionality.  
-- **`README.md`**: Project documentation (this file).  
-
 
 
 ## 🖥️ **Getting Started**
