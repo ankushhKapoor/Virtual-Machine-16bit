@@ -4,6 +4,19 @@
 
 <h3 align="center"><samp>I have named this virtual machine KapoorVM, reflecting my personal touch and dedication to this project.</samp></h3>
 
+<div align="center">
+<img src="https://github.com/Ankush1626/Virtual-Machine-16bit/blob/main/tests/kapoorvm%20test.png align="center" style="width: 90%" />
+</div>
+
+The test result shows the following:
+
+- **`vm` indicates the starting address of the virtual machine's memory and its total size (65,552 bytes).
+- **`prog` is the address of the program loaded into memory.
+- **`System halted`**: The virtual machine has completed its execution, and the system has been halted.
+- **`ax = abcd`**: The value in the `AX` register is shown, indicating it has been set to "abcd" (or some equivalent hex representation).
+
+This output showcases the virtual machine loading a program, executing it, and halting with the state of a register displayed at the end.
+
 ## ✨ **Features**
 - 🖥️ **Registers**: General-purpose (`AX`, `BX`, `CX`, `DX`) and specialized (`SP`, `IP`).
 - 📦 **Memory Management**: Supports **65 KB of virtual memory** for program execution.
