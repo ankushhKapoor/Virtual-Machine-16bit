@@ -3,7 +3,7 @@
 *A minimalistic virtual CPU designed for low-level programming and experimentation.*
 
 <h3 align="center"><samp>I have named this virtual machine kapoorvm, reflecting my personal touch and dedication to this project.</samp></h3>
----
+
 
 ## ✨ **Features**
 - 🖥️ **Registers**: General-purpose (`AX`, `BX`, `CX`, `DX`) and specialized (`SP`, `IP`).
@@ -11,7 +11,7 @@
 - 🎛️ **Custom Instruction Set**: Implements operations like data transfer, arithmetic, and more via **opcodes**.
 - 🔍 **Sub-register Access**: Direct manipulation of high and low parts of registers (e.g., `AH`, `AL`).
 
----
+
 
 ## 🛠️ **Architecture Overview**
 ### **Registers**
@@ -30,7 +30,7 @@
 ### **Instruction Set**
 - Custom-designed opcodes for core CPU operations like `MOV`, `HLT`, and more.  
 
----
+
 
 ## ⚠️ **Project Status**
 This project is a **work in progress**.  
@@ -41,7 +41,7 @@ I’m actively:
 
 ### Stay tuned for updates and enhancements!
 
----
+
 
 ## 📂 **Project Structure**
 - **`src/`**: Source code for the VM.  
@@ -49,7 +49,7 @@ I’m actively:
 - **`tests/`**: Test cases for validating functionality.  
 - **`README.md`**: Project documentation (this file).  
 
----
+
 
 ## 🖥️ **Getting Started**
 ### **Prerequisites**
@@ -74,24 +74,24 @@ I’m actively:
    ./vm
    ```
 
----
+
 
 ## 📚 **Usage**
 - Load a program into memory with simple assembly-like instructions.  
 - Use the custom instruction set to execute operations and observe the results.
 
----
+
 
 ## 🌟 **Planned Features**
 - 📜 **Stack Operations**: Add `PUSH` and `POP` instructions.  
 - ➗ **Advanced Arithmetic**: Include `MUL` and `DIV` operations.  
 
----
+
 
 ## 🙏 **Acknowledgments**
 Inspired by low-level CPU architectures and the x86 assembly language.  
 
----
+
 
 ### **Note**
 This project is **under development** and may have missing features or bugs.  
