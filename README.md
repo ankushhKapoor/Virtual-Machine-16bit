@@ -70,11 +70,11 @@ I’m actively:
    ```
 3. Compile the source code:
    ```bash
-   gcc -o vm src/main.c
+   gcc -o kapoorvm src/kapoorvm.c
    ```
 4. Run the virtual machine:
    ```bash
-   ./vm
+   ./kaooorvm
    ```
 
 ## 📚 **Usage**
