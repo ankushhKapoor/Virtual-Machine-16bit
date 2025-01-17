@@ -38,7 +38,7 @@ This output showcases the virtual machine loading a program, executing it, and h
 - **16-bit Address Space**: Total virtual memory of **65 KB**.  
 
 ### **Instruction Set**
-- Custom-designed opcodes for core CPU operations like `MOV`, `HLT`, and more.  
+- Custom-designed opcodes for core CPU operations like `MOV`, `HLT`, `NOP`.  
 
 ## ⚠️ **Project Status**
 This project is a **work in progress**.  
