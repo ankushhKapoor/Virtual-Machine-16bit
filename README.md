@@ -20,7 +20,7 @@ This output showcases the virtual machine loading a program, executing it, and h
 ## ✨ **Features**
 - 🖥️ **Registers**: General-purpose (`AX`, `BX`, `CX`, `DX`) and specialized (`SP`, `IP`).
 - 📦 **Memory Management**: Supports **65 KB of virtual memory** for program execution.
-- 🎛️ **Custom Instruction Set**: Implements operations like data transfer, arithmetic, and more via **opcodes**.
+- 🎛️ **Custom Instruction Set**: Implements operations like data transfer via **opcodes**.
 - 🔍 **Sub-register Access**: Direct manipulation of high and low parts of registers (e.g., `AH`, `AL`).
 
 ## 🛠️ **Architecture Overview**
